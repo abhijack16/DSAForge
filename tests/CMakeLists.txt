@@ -1,0 +1,3 @@
+add_executable(dsaforge_linked_list_tests linked_list_tests.cpp)
+target_link_libraries(dsaforge_linked_list_tests PRIVATE DSAForge::dsaforge)
+add_test(NAME dsaforge_linked_list_tests COMMAND dsaforge_linked_list_tests)

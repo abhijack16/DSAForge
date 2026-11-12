@@ -1,0 +1,2 @@
+add_executable(dsaforge_linked_list_example linked_list_example.cpp)
+target_link_libraries(dsaforge_linked_list_example PRIVATE DSAForge::dsaforge)

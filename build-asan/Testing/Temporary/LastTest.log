@@ -1,0 +1,18 @@
+Start testing: Nov 12 18:46 IST
+----------------------------------------------------------
+1/1 Testing: dsaforge_linked_list_tests
+1/1 Test: dsaforge_linked_list_tests
+Command: "/home/aj/Downloads/DSAForge/build-asan/tests/dsaforge_linked_list_tests"
+Directory: /home/aj/Downloads/DSAForge/build-asan/tests
+"dsaforge_linked_list_tests" start time: Nov 12 18:46 IST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.17 sec
+----------------------------------------------------------
+Test Passed.
+"dsaforge_linked_list_tests" end time: Nov 12 18:46 IST
+"dsaforge_linked_list_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 12 18:46 IST

@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/aj/Downloads/DSAForge/build-asan/cmake_install.cmake",
+		"/home/aj/Downloads/DSAForge/build-asan/tests/cmake_install.cmake",
+		"/home/aj/Downloads/DSAForge/build-asan/examples/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
